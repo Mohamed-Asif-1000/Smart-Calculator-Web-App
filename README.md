@@ -94,32 +94,26 @@ cd Smart-Calculator-Web-App
 
 ## 🧮 How It Works
 
-**Number Input:**  
-Click the number buttons to input digits.
+**Number Input:** Click the number buttons to input digits.
 
-**Operator Input:**  
-Click +, -, ×, ÷ to perform operations.
+**Operator Input:** Click +, -, ×, ÷ to perform operations.
 
-**Decimal Point:**  
-Click . to input decimal numbers (only one per number).
+**Decimal Point:** Click . to input decimal numbers (only one per number).
 
-**Equals (=) Button:**  
-Computes the result of the current operation.
+**Equals (=) Button:** Computes the result of the current operation.
 
-**Clear (C) Button:**  
-Resets the calculator display and all stored numbers/operators
+**Clear (C) Button:** Resets the calculator display and all stored numbers/operators
 
-**Chaining Calculations:**  
-You can continue calculations after pressing = without needing to reset manually.
+**Chaining Calculations:** You can continue calculations after pressing = without needing to reset manually.
 
-**Division by Zero Handling:**  
-Displays Error if an invalid division is attempted.
+**Division by Zero Handling:** Displays Error if an invalid division is attempted.
+
 ---
 
 ## 🌍 Live Demo
 
 You can view the live version of the website here:  
-👉 [https://github.com/Mohamed-Asif-1000/HyperMarket-Billing-System-Smart-Retail-Checkout-Web-App.git](https://mohamed-asif-1000.github.io/HyperMarket-Billing-System-Smart-Retail-Checkout-Web-App/)
+👉 [https://mohamed-asif-1000.github.io/Smart-Calculator-Web-App/](https://mohamed-asif-1000.github.io/Smart-Calculator-Web-App/)
 
 ---
 
